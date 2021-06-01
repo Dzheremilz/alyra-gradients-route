@@ -272,7 +272,7 @@ const Proposition = () => {
             </div>
           </div>
           <div className="container">
-            <h3 className="text-center pt-4"> Select the tags :</h3>
+            <h2 className="text-center display-6 pt-4"> Select the tags :</h2>
             <div
               className="col-md-5 middle text-center m-auto"
               style={styleTags}
